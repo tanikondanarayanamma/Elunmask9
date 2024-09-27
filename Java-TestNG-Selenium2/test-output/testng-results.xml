@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-26T16:52:01 IST" name="Default suite" finished-at="2024-09-26T16:52:12 IST" duration-ms="11821">
+    <groups>
+    </groups>
+    <test started-at="2024-09-26T16:52:01 IST" name="Default test" finished-at="2024-09-26T16:52:12 IST" duration-ms="11821">
+      <class name="com.lambdatest.TestNGTodo1">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext)[pri:0, instance:com.lambdatest.TestNGTodo1@51c668e3]" started-at="2024-09-26T16:52:01 IST" name="setup" finished-at="2024-09-26T16:52:06 IST" duration-ms="5079" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambdatest.TestNGTodo1.basicTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@5d8ab698]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="basicTest()[pri:0, instance:com.lambdatest.TestNGTodo1@51c668e3]" started-at="2024-09-26T16:52:06 IST" name="basicTest" finished-at="2024-09-26T16:52:11 IST" duration-ms="5134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambdatest.TestNGTodo1@51c668e3]" started-at="2024-09-26T16:52:11 IST" name="tearDown" finished-at="2024-09-26T16:52:12 IST" duration-ms="1520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambdatest.TestNGTodo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
